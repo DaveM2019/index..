@@ -1,0 +1,20 @@
+
+
+body {
+  background-color: lightblue;
+}
+
+p.solid {border-style: solid;
+        font-size: 150%;
+}
+
+.img src {
+  rotation-point:50% 50%;
+  rotation:180deg;
+}
+
+/*
+{
+rotation-point:50% 50%;
+rotation:180deg;
+}*/
